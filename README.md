@@ -1,4 +1,4 @@
 # demo
 my first git repository
 <br>
-Author - Naveed Ahmed
+Author - Naveed Ahmed shaik
